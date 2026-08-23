@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:21:07.166Z",
-  "today": "2026-08-22",
+  "generated": "2026-08-23T12:49:37.664Z",
+  "today": "2026-08-23",
   "official": {
     "2026-04-10|AS": "ran",
     "2026-04-17|AS": "ran",
@@ -42,6 +42,7 @@
     "2026-07-11|LV": "ran",
     "2026-07-25|LV": "ran",
     "2026-08-15|LV": "ran",
+    "2026-08-22|LV": "ran",
     "2026-04-11|FON": "ran",
     "2026-04-18|FON": "ran",
     "2026-04-25|FON": "cancelled",
@@ -71,7 +72,7 @@
       "hotlaps": "18:00",
       "race": "19:00"
     },
-    "2026-08-22|LV": {
+    "2026-09-05|LV": {
       "pits": "14:00",
       "gates": "17:00",
       "hotlaps": "17:00",
@@ -85,33 +86,18 @@
     }
   },
   "events": {
-    "2026-08-22|LV": {
-      "flag": "green",
-      "why": "Dry all day · 4% through the feature",
-      "official": null,
-      "prob": 4,
-      "trend": [
-        31,
-        23,
-        27,
-        20,
-        6,
-        4
-      ],
-      "direction": "down"
-    },
     "2026-08-28|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 52,
+      "prob": 50,
       "trend": [
-        26,
         25,
         27,
         22,
         39,
-        52
+        52,
+        50
       ],
       "direction": "up"
     },
@@ -119,24 +105,26 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 30,
+      "prob": 16,
       "trend": [
         16,
         16,
-        30
+        30,
+        16
       ],
-      "direction": "up"
+      "direction": "flat"
     },
     "2026-09-05|LV": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 38,
+      "prob": 7,
       "trend": [
         26,
-        38
+        38,
+        7
       ],
-      "direction": "up"
+      "direction": "down"
     }
   }
 }
