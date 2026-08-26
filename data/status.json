@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T21:27:54.709Z",
-  "today": "2026-08-25",
+  "generated": "2026-08-26T13:01:29.503Z",
+  "today": "2026-08-26",
   "official": {
     "2026-04-10|AS": "ran",
     "2026-04-17|AS": "ran",
@@ -90,31 +90,31 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 13,
+      "prob": 5,
       "trend": [
-        22,
         39,
         52,
         33,
         19,
-        13
+        13,
+        5
       ],
-      "direction": "flat"
+      "direction": "down"
     },
     "2026-09-04|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 23,
+      "prob": 26,
       "trend": [
-        16,
         16,
         30,
         19,
         11,
-        23
+        23,
+        26
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-05|LV": {
       "flag": null,
@@ -126,6 +126,7 @@
         38,
         35,
         10,
+        26,
         26
       ],
       "direction": "flat"
