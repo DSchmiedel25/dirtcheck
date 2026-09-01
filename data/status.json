@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T20:29:57.940Z",
+  "generated": "2026-09-01T21:36:47.109Z",
   "today": "2026-09-01",
   "official": {
     "2026-04-10|AS": "ran",
@@ -91,14 +91,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 4,
+      "prob": 2,
       "trend": [
         27,
         19,
         29,
         25,
         5,
-        4
+        2
       ],
       "direction": "down"
     },
@@ -106,29 +106,29 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 11,
+      "prob": 5,
       "trend": [
         17,
         12,
         17,
         13,
         18,
-        11
+        5
       ],
-      "direction": "flat"
+      "direction": "down"
     },
     "2026-09-11|LV": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 17,
+      "prob": 20,
       "trend": [
         16,
         19,
         17,
         27,
         26,
-        17
+        20
       ],
       "direction": "flat"
     },
