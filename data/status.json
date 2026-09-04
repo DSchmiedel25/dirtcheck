@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T16:04:30.961Z",
+  "generated": "2026-09-04T19:21:22.076Z",
   "today": "2026-09-04",
   "official": {
     "2026-04-10|AS": "ran",
@@ -166,11 +166,11 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 17,
+      "prob": 20,
       "trend": [
         19,
         23,
-        17
+        20
       ],
       "direction": "flat"
     },
@@ -178,10 +178,10 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 19,
+      "prob": 26,
       "trend": [
         17,
-        19
+        26
       ],
       "direction": "flat"
     },
@@ -189,20 +189,20 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 23,
+      "prob": 29,
       "trend": [
         16,
-        23
+        29
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-19|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 23,
+      "prob": 15,
       "trend": [
-        23
+        15
       ],
       "direction": "flat"
     }
