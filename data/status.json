@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T14:54:28.112Z",
+  "generated": "2026-09-05T17:13:35.316Z",
   "today": "2026-09-05",
   "official": {},
   "discovered": {},
@@ -7,16 +7,16 @@
   "events": {
     "2026-09-05|LV": {
       "flag": "green",
-      "why": "Dry all day · 3% through the feature",
+      "why": "Dry all day · 5% through the feature",
       "official": null,
-      "prob": 3,
+      "prob": 5,
       "trend": [
         18,
         5,
         6,
         6,
         4,
-        3
+        5
       ],
       "direction": "down"
     },
