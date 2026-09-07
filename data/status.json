@@ -1,9 +1,87 @@
 {
-  "generated": "2026-09-06T21:04:48.398Z",
-  "today": "2026-09-06",
-  "official": {},
+  "generated": "2026-09-07T17:35:43.016Z",
+  "today": "2026-09-07",
+  "official": {
+    "2026-04-10|AS": "ran",
+    "2026-04-17|AS": "ran",
+    "2026-04-24|AS": "ran",
+    "2026-05-01|AS": "ran",
+    "2026-05-08|AS": "ran",
+    "2026-05-15|AS": "rainout",
+    "2026-05-22|AS": "ran",
+    "2026-05-29|AS": "ran",
+    "2026-06-05|AS": "ran",
+    "2026-06-12|AS": "ran",
+    "2026-06-19|AS": "ran",
+    "2026-06-26|AS": "ran",
+    "2026-07-03|AS": "ran",
+    "2026-07-10|AS": "ran",
+    "2026-07-17|AS": "ran",
+    "2026-07-24|AS": "ran",
+    "2026-07-31|AS": "rainout",
+    "2026-08-07|AS": "rainout",
+    "2026-08-14|AS": "rainout",
+    "2026-08-21|AS": "ran",
+    "2026-08-28|AS": "ran",
+    "2026-09-04|AS": "ran",
+    "2026-04-04|LV": "ran",
+    "2026-04-11|LV": "ran",
+    "2026-04-18|LV": "ran",
+    "2026-04-25|LV": "rainout",
+    "2026-05-02|LV": "rainout",
+    "2026-05-09|LV": "rainout",
+    "2026-05-16|LV": "ran",
+    "2026-05-20|LV": "ran",
+    "2026-05-21|LV": "ran",
+    "2026-05-23|LV": "rainout",
+    "2026-05-30|LV": "ran",
+    "2026-06-06|LV": "ran",
+    "2026-06-13|LV": "ran",
+    "2026-06-16|LV": "ran",
+    "2026-06-20|LV": "ran",
+    "2026-06-27|LV": "ran",
+    "2026-07-04|LV": "ran",
+    "2026-07-11|LV": "ran",
+    "2026-07-25|LV": "ran",
+    "2026-08-15|LV": "ran",
+    "2026-08-22|LV": "ran",
+    "2026-09-05|LV": "ran",
+    "2026-04-11|FON": "ran",
+    "2026-04-18|FON": "ran",
+    "2026-04-25|FON": "cancelled",
+    "2026-05-02|FON": "ran",
+    "2026-05-09|FON": "rainout",
+    "2026-05-16|FON": "ran",
+    "2026-05-23|FON": "rainout",
+    "2026-05-30|FON": "ran",
+    "2026-06-06|FON": "ran",
+    "2026-06-13|FON": "ran",
+    "2026-06-20|FON": "ran",
+    "2026-06-27|FON": "ran",
+    "2026-07-01|FON": "ran",
+    "2026-07-11|FON": "ran",
+    "2026-07-16|FON": "ran",
+    "2026-07-18|FON": "rainout",
+    "2026-07-25|FON": "ran",
+    "2026-08-01|FON": "ran",
+    "2026-08-08|FON": "ran",
+    "2026-08-15|FON": "ran"
+  },
   "discovered": {},
-  "published": {},
+  "published": {
+    "2026-09-10|LV": {
+      "pits": "14:00",
+      "gates": "17:00",
+      "hotlaps": "17:00",
+      "race": "18:00"
+    },
+    "2026-09-17|FON": {
+      "pits": "12:00",
+      "gates": "16:00",
+      "hotlaps": "18:15",
+      "race": "19:00"
+    }
+  },
   "events": {
     "2026-09-11|LV": {
       "flag": null,
@@ -11,11 +89,11 @@
       "official": null,
       "prob": 1,
       "trend": [
-        20,
         17,
         17,
         4,
         4,
+        1,
         1
       ],
       "direction": "down"
@@ -24,69 +102,72 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 4,
+      "prob": 6,
       "trend": [
-        23,
         15,
         10,
         4,
         6,
-        4
+        4,
+        6
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-13|LV": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 14,
+      "prob": 22,
       "trend": [
-        16,
         11,
         12,
         16,
         22,
-        14
+        14,
+        22
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-17|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 0,
+      "prob": 22,
       "trend": [
         19,
         23,
         20,
         26,
-        0
+        0,
+        22
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-18|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 7,
+      "prob": 16,
       "trend": [
         17,
         26,
         16,
-        7
+        7,
+        16
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-18|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 14,
+      "prob": 13,
       "trend": [
         16,
         29,
         13,
-        14
+        14,
+        13
       ],
       "direction": "flat"
     },
@@ -94,11 +175,12 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 19,
+      "prob": 13,
       "trend": [
         15,
         23,
-        19
+        19,
+        13
       ],
       "direction": "flat"
     }
