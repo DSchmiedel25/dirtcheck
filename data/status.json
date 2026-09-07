@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T17:35:43.016Z",
+  "generated": "2026-09-07T21:04:33.280Z",
   "today": "2026-09-07",
   "official": {
     "2026-04-10|AS": "ran",
@@ -87,14 +87,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 1,
+      "prob": 0,
       "trend": [
         17,
         17,
         4,
         4,
         1,
-        1
+        0
       ],
       "direction": "down"
     },
@@ -102,14 +102,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 6,
+      "prob": 7,
       "trend": [
         15,
         10,
         4,
         6,
         4,
-        6
+        7
       ],
       "direction": "flat"
     },
@@ -117,14 +117,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 22,
+      "prob": 28,
       "trend": [
         11,
         12,
         16,
         22,
         14,
-        22
+        28
       ],
       "direction": "up"
     },
@@ -132,14 +132,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 22,
+      "prob": 16,
       "trend": [
         19,
         23,
         20,
         26,
         0,
-        22
+        16
       ],
       "direction": "flat"
     },
@@ -147,13 +147,13 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 16,
+      "prob": 26,
       "trend": [
         17,
         26,
         16,
         7,
-        16
+        26
       ],
       "direction": "flat"
     },
@@ -161,13 +161,13 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 13,
+      "prob": 24,
       "trend": [
         16,
         29,
         13,
         14,
-        13
+        24
       ],
       "direction": "flat"
     },
@@ -175,12 +175,12 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 13,
+      "prob": 17,
       "trend": [
         15,
         23,
         19,
-        13
+        17
       ],
       "direction": "flat"
     }
