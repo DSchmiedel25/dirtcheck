@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T20:40:41.853Z",
+  "generated": "2026-09-08T21:36:45.350Z",
   "today": "2026-09-08",
   "official": {
     "2026-04-10|AS": "ran",
@@ -87,14 +87,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 0,
+      "prob": 1,
       "trend": [
         17,
         4,
         4,
         1,
         0,
-        0
+        1
       ],
       "direction": "down"
     },
@@ -102,14 +102,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 3,
+      "prob": 8,
       "trend": [
         10,
         4,
         6,
         4,
         7,
-        3
+        8
       ],
       "direction": "flat"
     },
@@ -117,14 +117,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 38,
+      "prob": 28,
       "trend": [
         12,
         16,
         22,
         14,
         28,
-        38
+        28
       ],
       "direction": "up"
     },
@@ -132,14 +132,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 17,
+      "prob": 18,
       "trend": [
         23,
         20,
         26,
         0,
         16,
-        17
+        18
       ],
       "direction": "flat"
     },
@@ -147,14 +147,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 20,
+      "prob": 22,
       "trend": [
         17,
         26,
         16,
         7,
         26,
-        20
+        22
       ],
       "direction": "flat"
     },
@@ -162,14 +162,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 20,
+      "prob": 23,
       "trend": [
         16,
         29,
         13,
         14,
         24,
-        20
+        23
       ],
       "direction": "flat"
     },
