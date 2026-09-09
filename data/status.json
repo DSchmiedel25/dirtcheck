@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T21:36:45.350Z",
-  "today": "2026-09-08",
+  "generated": "2026-09-09T16:17:48.548Z",
+  "today": "2026-09-09",
   "official": {
     "2026-04-10|AS": "ran",
     "2026-04-17|AS": "ran",
@@ -87,31 +87,31 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 1,
+      "prob": 0,
       "trend": [
-        17,
         4,
         4,
         1,
         0,
-        1
+        1,
+        0
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-12|LV": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 8,
+      "prob": 14,
       "trend": [
-        10,
         4,
         6,
         4,
         7,
-        8
+        8,
+        14
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-13|LV": {
       "flag": null,
@@ -119,10 +119,10 @@
       "official": null,
       "prob": 28,
       "trend": [
-        12,
         16,
         22,
         14,
+        28,
         28,
         28
       ],
@@ -132,14 +132,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 18,
+      "prob": 29,
       "trend": [
-        23,
         20,
         26,
         0,
         16,
-        18
+        18,
+        29
       ],
       "direction": "flat"
     },
@@ -147,14 +147,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 22,
+      "prob": 26,
       "trend": [
-        17,
         26,
         16,
         7,
         26,
-        22
+        22,
+        26
       ],
       "direction": "flat"
     },
@@ -162,14 +162,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 23,
+      "prob": 27,
       "trend": [
-        16,
         29,
         13,
         14,
         24,
-        23
+        23,
+        27
       ],
       "direction": "flat"
     },
@@ -177,13 +177,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 32,
+      "prob": 25,
       "trend": [
         15,
         23,
         19,
         17,
-        32
+        32,
+        25
       ],
       "direction": "up"
     }
