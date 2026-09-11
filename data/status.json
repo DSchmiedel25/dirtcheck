@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T16:12:22.063Z",
+  "generated": "2026-09-11T19:29:26.895Z",
   "today": "2026-09-11",
   "official": {
     "2026-04-10|AS": "ran",
@@ -101,18 +101,18 @@
     },
     "2026-09-12|LV": {
       "flag": "green",
-      "why": "Dry all day · 4% through the feature",
+      "why": "Dry all day · 16% through the feature",
       "official": null,
-      "prob": 4,
+      "prob": 16,
       "trend": [
         4,
         7,
         8,
         10,
         41,
-        4
+        16
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-13|LV": {
       "flag": null,
@@ -193,20 +193,20 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 10,
+      "prob": 26,
       "trend": [
         23,
-        10
+        26
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-26|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 16,
+      "prob": 19,
       "trend": [
-        16
+        19
       ],
       "direction": "flat"
     }
