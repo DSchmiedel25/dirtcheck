@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T20:08:57.391Z",
+  "generated": "2026-09-12T21:15:28.627Z",
   "today": "2026-09-12",
   "official": {
     "2026-04-10|AS": "ran",
@@ -87,22 +87,22 @@
   "events": {
     "2026-09-12|LV": {
       "flag": "green",
-      "why": "Dry all day · 2% through the feature",
+      "why": "Dry all day · 1% through the feature",
       "official": null,
-      "prob": 2,
+      "prob": 1,
       "trend": [
         7,
         8,
         10,
         41,
         20,
-        2
+        1
       ],
       "direction": "flat"
     },
     "2026-09-13|LV": {
-      "flag": "yellow",
-      "why": "0.75\" before pits",
+      "flag": "green",
+      "why": "Dry all day · 16% through the feature",
       "official": null,
       "prob": 16,
       "trend": [
@@ -119,14 +119,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 42,
+      "prob": 48,
       "trend": [
         16,
         18,
         26,
         41,
         43,
-        42
+        48
       ],
       "direction": "up"
     },
@@ -134,14 +134,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 12,
+      "prob": 14,
       "trend": [
         26,
         22,
         33,
         17,
         16,
-        12
+        14
       ],
       "direction": "down"
     },
@@ -149,29 +149,29 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 14,
+      "prob": 16,
       "trend": [
         24,
         23,
         35,
         15,
         17,
-        14
+        16
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-19|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 29,
+      "prob": 28,
       "trend": [
         17,
         32,
         18,
         9,
         18,
-        29
+        28
       ],
       "direction": "up"
     },
