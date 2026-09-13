@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T21:15:28.627Z",
-  "today": "2026-09-12",
+  "generated": "2026-09-13T15:56:01.450Z",
+  "today": "2026-09-13",
   "official": {
     "2026-04-10|AS": "ran",
     "2026-04-17|AS": "ran",
@@ -48,6 +48,7 @@
     "2026-09-05|LV": "ran",
     "2026-09-10|LV": "live",
     "2026-09-11|LV": "ran",
+    "2026-09-12|LV": "ran",
     "2026-04-11|FON": "ran",
     "2026-04-18|FON": "ran",
     "2026-04-25|FON": "cancelled",
@@ -85,48 +86,33 @@
     }
   },
   "events": {
-    "2026-09-12|LV": {
-      "flag": "green",
-      "why": "Dry all day · 1% through the feature",
-      "official": null,
-      "prob": 1,
-      "trend": [
-        7,
-        8,
-        10,
-        41,
-        20,
-        1
-      ],
-      "direction": "flat"
-    },
     "2026-09-13|LV": {
-      "flag": "green",
-      "why": "Dry all day · 16% through the feature",
+      "flag": "yellow",
+      "why": "0.3\" before pits",
       "official": null,
-      "prob": 16,
+      "prob": 21,
       "trend": [
-        28,
         28,
         19,
         39,
         64,
-        16
+        16,
+        21
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-17|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 48,
+      "prob": 46,
       "trend": [
-        16,
         18,
         26,
         41,
         43,
-        48
+        48,
+        46
       ],
       "direction": "up"
     },
@@ -134,14 +120,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 14,
+      "prob": 9,
       "trend": [
-        26,
         22,
         33,
         17,
         16,
-        14
+        14,
+        9
       ],
       "direction": "down"
     },
@@ -149,52 +135,54 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 16,
+      "prob": 11,
       "trend": [
-        24,
         23,
         35,
         15,
         17,
-        16
+        16,
+        11
       ],
-      "direction": "flat"
+      "direction": "down"
     },
     "2026-09-19|FON": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 28,
+      "prob": 35,
       "trend": [
-        17,
         32,
         18,
         9,
         18,
-        28
+        28,
+        35
       ],
-      "direction": "up"
+      "direction": "flat"
     },
     "2026-09-25|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 33,
+      "prob": 13,
       "trend": [
         23,
         26,
-        33
+        33,
+        13
       ],
-      "direction": "up"
+      "direction": "down"
     },
     "2026-09-26|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 26,
+      "prob": 16,
       "trend": [
         19,
-        26
+        26,
+        16
       ],
       "direction": "flat"
     }
