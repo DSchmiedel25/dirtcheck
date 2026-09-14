@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T17:57:11.629Z",
+  "generated": "2026-09-14T21:25:38.820Z",
   "today": "2026-09-14",
   "official": {
     "2026-04-10|AS": "ran",
@@ -150,13 +150,13 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 16,
+      "prob": 19,
       "trend": [
         23,
         26,
         33,
         13,
-        16
+        19
       ],
       "direction": "flat"
     },
@@ -164,12 +164,12 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 13,
+      "prob": 20,
       "trend": [
         19,
         26,
         6,
-        13
+        20
       ],
       "direction": "flat"
     }
