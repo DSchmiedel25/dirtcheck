@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T19:55:35.109Z",
+  "generated": "2026-09-16T20:50:27.167Z",
   "today": "2026-09-16",
   "official": {
     "2026-04-10|AS": "ran",
@@ -88,7 +88,7 @@
   "events": {
     "2026-09-17|FON": {
       "flag": "yellow",
-      "why": "0.4\" once you're there",
+      "why": "0.21\" once you're there",
       "official": null,
       "prob": 46,
       "trend": [
@@ -135,14 +135,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 21,
+      "prob": 13,
       "trend": [
         18,
         28,
         40,
         39,
         32,
-        21
+        13
       ],
       "direction": "flat"
     },
@@ -150,29 +150,29 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 14,
+      "prob": 19,
       "trend": [
         26,
         33,
         13,
         19,
         9,
-        14
+        19
       ],
-      "direction": "down"
+      "direction": "flat"
     },
     "2026-09-26|AS": {
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 12,
+      "prob": 15,
       "trend": [
         19,
         26,
         6,
         20,
         13,
-        12
+        15
       ],
       "direction": "flat"
     }
