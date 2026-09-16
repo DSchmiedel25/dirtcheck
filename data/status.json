@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T20:50:27.167Z",
+  "generated": "2026-09-16T21:55:08.327Z",
   "today": "2026-09-16",
   "official": {
     "2026-04-10|AS": "ran",
@@ -88,18 +88,18 @@
   "events": {
     "2026-09-17|FON": {
       "flag": "yellow",
-      "why": "0.21\" once you're there",
+      "why": "0.21\" once you're there · 59% at 2pm",
       "official": null,
-      "prob": 46,
+      "prob": 59,
       "trend": [
         43,
         48,
         49,
         53,
         59,
-        46
+        59
       ],
-      "direction": "flat"
+      "direction": "up"
     },
     "2026-09-18|AS": {
       "flag": null,
