@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T16:40:01.762Z",
+  "generated": "2026-09-17T20:05:19.605Z",
   "today": "2026-09-17",
   "official": {},
   "discovered": {},
@@ -7,16 +7,16 @@
   "events": {
     "2026-09-17|FON": {
       "flag": "green",
-      "why": "Dry all day · 42% through the feature",
+      "why": "Dry all day · 40% through the feature",
       "official": null,
-      "prob": 42,
+      "prob": 40,
       "trend": [
         48,
         49,
         53,
         59,
         59,
-        42
+        40
       ],
       "direction": "flat"
     },
