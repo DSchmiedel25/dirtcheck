@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T20:05:19.605Z",
+  "generated": "2026-09-17T20:55:22.229Z",
   "today": "2026-09-17",
   "official": {},
   "discovered": {},
@@ -7,18 +7,18 @@
   "events": {
     "2026-09-17|FON": {
       "flag": "green",
-      "why": "Dry all day · 40% through the feature",
+      "why": "Dry all day · 37% through the feature",
       "official": null,
-      "prob": 40,
+      "prob": 37,
       "trend": [
         48,
         49,
         53,
         59,
         59,
-        40
+        37
       ],
-      "direction": "flat"
+      "direction": "down"
     },
     "2026-09-18|AS": {
       "flag": "green",
@@ -54,14 +54,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 3,
+      "prob": 1,
       "trend": [
         28,
         40,
         39,
         32,
         13,
-        3
+        1
       ],
       "direction": "down"
     },
@@ -69,14 +69,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 13,
+      "prob": 12,
       "trend": [
         33,
         13,
         19,
         9,
         19,
-        13
+        12
       ],
       "direction": "down"
     },
@@ -84,14 +84,14 @@
       "flag": null,
       "why": null,
       "official": null,
-      "prob": 8,
+      "prob": 9,
       "trend": [
         26,
         6,
         20,
         13,
         15,
-        8
+        9
       ],
       "direction": "down"
     }
