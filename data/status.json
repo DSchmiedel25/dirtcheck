@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T20:20:42.139Z",
+  "generated": "2026-09-25T21:03:49.565Z",
   "today": "2026-09-25",
   "official": {
     "2026-04-10|AS": "ran",
@@ -101,16 +101,16 @@
     },
     "2026-09-26|AS": {
       "flag": "green",
-      "why": "Dry all day · 23% through the feature",
+      "why": "Dry all day · 17% through the feature",
       "official": null,
-      "prob": 23,
+      "prob": 17,
       "trend": [
         22,
         18,
         14,
         33,
         55,
-        23
+        17
       ],
       "direction": "flat"
     },
