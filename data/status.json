@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T19:37:30.993Z",
+  "generated": "2026-09-26T20:37:02.034Z",
   "today": "2026-09-26",
   "official": {
     "2026-04-10|AS": "ran",
@@ -80,8 +80,8 @@
   "published": {},
   "events": {
     "2026-09-26|AS": {
-      "flag": "yellow",
-      "why": "0.04\" once you're there",
+      "flag": "green",
+      "why": "Dry all day · 37% through the feature",
       "official": "rainout",
       "prob": 37,
       "trend": [
